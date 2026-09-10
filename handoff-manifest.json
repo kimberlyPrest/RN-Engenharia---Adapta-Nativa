@@ -1,0 +1,7 @@
+{
+  "schemaVersion": "adapta-cliente-handoff/v1",
+  "phase": 1,
+  "versions": {"package":"0.9.3","adapta":"0.9.3","adaptaCliente":"0.9.3"},
+  "status": "validated",
+  "note": "Full client handoff validated locally with 24 files, 5 SPECs and 10 tasks."
+}
