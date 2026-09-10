@@ -1,6 +1,3 @@
 # Documentos do projeto
 
-- `PRD.md`: produto e critérios.
-- `escopo.md`: requisitos, regras e fases.
-
-Dados financeiros reais devem permanecer sob a política de acesso da RN.
+PRD e escopo aprovados da Central Financeira de Obras construtora-first.

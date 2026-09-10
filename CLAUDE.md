@@ -12,8 +12,5 @@ Guilherme Garcia — RN Engenharia.
 ## Consultora
 Kimberly Prestes — Adapta Native.
 
-## Repo do cliente
-https://github.com/kimberlyPrest/RN-Engenharia---Adapta-Nativa
-
 ## Fase atual
-Fase 1: fundação e prova em uma obra, com SPECs e tasks publicadas conforme os gates operacionais.
+Fase 1: fundação e prova em uma obra, com 5 SPECs e 10 tasks.
